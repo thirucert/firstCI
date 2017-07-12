@@ -1,0 +1,8 @@
+<suite name="TestSuite2">
+<test name="Firefox test" >
+
+<classes>
+	<class name="com.expedia.flightbooking2.TestNG_testcase">	</class>
+</classes>
+</test>
+</suite>
